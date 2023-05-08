@@ -16,7 +16,7 @@ public class Main {
 //      prodotto.setPrezzo(100);
 //
 //      System.out.println("Nome (dopo la modifica): " + prodotto.getNome());
-        System.out.println("Prezzo base (dopo la modifica): " + prodotto.getPrezzoBase());
-        System.out.println("Prezzo ivato (dopo la modifica): " + prodotto.getPrezzoIvato());
+//        System.out.println("Prezzo base (dopo la modifica): " + prodotto.getPrezzoBase());
+//        System.out.println("Prezzo ivato (dopo la modifica): " + prodotto.getPrezzoIvato());
     }
 }
