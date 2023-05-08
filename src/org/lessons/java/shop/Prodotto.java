@@ -65,6 +65,7 @@ public class Prodotto {
         return codice + "-" + nome;
     }
 
+//    Bonus:
     public String getCodicePadded() {
         return String.format("%08d", codice);
     }
