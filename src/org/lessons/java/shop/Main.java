@@ -13,9 +13,9 @@ public class Main {
         System.out.println("Codice padded: " + prodotto.getCodicePadded());
 
         prodotto.setNome("Prodotto di esempio (modificato)");
-        prodotto.setPrezzo(150.0);
-
-        System.out.println("Nome (dopo la modifica): " + prodotto.getNome());
+//      prodotto.setPrezzo(100);
+//
+//      System.out.println("Nome (dopo la modifica): " + prodotto.getNome());
         System.out.println("Prezzo base (dopo la modifica): " + prodotto.getPrezzoBase());
         System.out.println("Prezzo ivato (dopo la modifica): " + prodotto.getPrezzoIvato());
     }
